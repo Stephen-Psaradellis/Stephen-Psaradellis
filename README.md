@@ -11,6 +11,9 @@ Most of what is here started from one scan of 43,000 small-business websites and
 - [Mailwick Site Audit](https://github.com/Stephen-Psaradellis/mailwick-site-audit) - a WordPress plugin
   with seven plain-English checks (email forgery, SSL and mixed content, updates, phone view, tap-to-call,
   form mail, search snippet) in Tools > Site Health.
+- [Local Site Audit + Pitch](https://github.com/Stephen-Psaradellis/local-site-audit) - a browser extension
+  for web designers: one click on a business's site gives a client report of real defects with evidence,
+  plus a pitch email written from them.
 - [The data story](https://stephen-psaradellis.github.io/demos/small-business-email-forgery-2026.html) -
   57.2% of small-business mail domains publish no DMARC record at all.
 
