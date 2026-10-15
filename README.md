@@ -17,7 +17,7 @@ Most of what is here started from one scan of 43,000 small-business websites and
 - [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite) - a free one-page website template
   for local service businesses (plumber, HVAC, dentist), accessible, dark mode, no build step.
   [Preview](https://stephen-psaradellis.github.io/keystone-lite/). The full 16-page Keystone is
-  [$29 on Gumroad](https://neuralgirlsdaily.gumroad.com/l/keystone).
+  [$29 on Gumroad](https://localwebkit.gumroad.com/l/keystone).
 - [The data story](https://stephen-psaradellis.github.io/demos/small-business-email-forgery-2026.html) -
   57.2% of small-business mail domains publish no DMARC record at all.
 
