@@ -5,6 +5,9 @@ Most of what is here started from one scan of 43,000 small-business websites and
 
 **Free tools**
 
+- [Free website check](https://stephen-psaradellis.github.io/demos/site-check.html) - type a business website address and see, in plain English,
+  what a customer or Google runs into on its home page (not secure, broken on phones, missing
+  Google title, old year and more), each with a free step-by-step fix. No sign-up.
 - [Email forgery check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) -
   type a domain, see whether anyone can send mail in its name (DMARC, SPF). Runs in your browser.
   Source: [email-forgery-check](https://github.com/Stephen-Psaradellis/email-forgery-check)
