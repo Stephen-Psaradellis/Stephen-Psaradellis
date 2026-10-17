@@ -16,7 +16,7 @@ Most of what is here started from one scan of 43,000 small-business websites and
   form mail, search snippet) in Tools > Site Health.
 - [Local Site Audit + Pitch](https://github.com/Stephen-Psaradellis/local-site-audit) - a browser extension
   for web designers: one click on a business's site gives a client report of real defects with evidence,
-  plus a pitch email written from them. [Get it on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hcdpnkilmailiiljmaeldcomceoibajh).
+  plus a pitch email written from them. [Get it on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hcdpnkilmailiiljmaeldcomceoibajh) or [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/local-site-audit-pitch/).
 - [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template) - a free one-page website template
   for local service businesses, one per trade: [plumber](https://github.com/Stephen-Psaradellis/plumber-website-template), [dentist](https://github.com/Stephen-Psaradellis/dentist-website-template),
   [cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template), [law firm](https://github.com/Stephen-Psaradellis/law-firm-website-template), [roofing](https://github.com/Stephen-Psaradellis/roofing-website-template), [electrician](https://github.com/Stephen-Psaradellis/electrician-website-template), [landscaping](https://github.com/Stephen-Psaradellis/landscaping-website-template).
