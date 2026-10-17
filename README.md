@@ -19,7 +19,7 @@ Most of what is here started from one scan of 43,000 small-business websites and
   plus a pitch email written from them. [Get it on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hcdpnkilmailiiljmaeldcomceoibajh).
 - [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template) - a free one-page website template
   for local service businesses, one per trade: [plumber](https://github.com/Stephen-Psaradellis/plumber-website-template), [dentist](https://github.com/Stephen-Psaradellis/dentist-website-template),
-  [cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template), [law firm](https://github.com/Stephen-Psaradellis/law-firm-website-template), [roofing](https://github.com/Stephen-Psaradellis/roofing-website-template), [electrician](https://github.com/Stephen-Psaradellis/electrician-website-template).
+  [cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template), [law firm](https://github.com/Stephen-Psaradellis/law-firm-website-template), [roofing](https://github.com/Stephen-Psaradellis/roofing-website-template), [electrician](https://github.com/Stephen-Psaradellis/electrician-website-template), [landscaping](https://github.com/Stephen-Psaradellis/landscaping-website-template).
   Accessible, dark mode, no build step.
   [Preview](https://stephen-psaradellis.github.io/plumber-website-template/). The full 16-page Keystone is
   [$29 on Gumroad](https://localwebkit.gumroad.com/l/keystone).
