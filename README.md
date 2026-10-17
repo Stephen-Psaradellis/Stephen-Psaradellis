@@ -18,7 +18,9 @@ Most of what is here started from one scan of 43,000 small-business websites and
   for web designers: one click on a business's site gives a client report of real defects with evidence,
   plus a pitch email written from them. [Get it on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hcdpnkilmailiiljmaeldcomceoibajh).
 - [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template) - a free one-page website template
-  for local service businesses (plumber, HVAC, dentist), accessible, dark mode, no build step.
+  for local service businesses, one per trade: [plumber](https://github.com/Stephen-Psaradellis/plumber-website-template), [dentist](https://github.com/Stephen-Psaradellis/dentist-website-template),
+  [cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template), [law firm](https://github.com/Stephen-Psaradellis/law-firm-website-template), [roofing](https://github.com/Stephen-Psaradellis/roofing-website-template).
+  Accessible, dark mode, no build step.
   [Preview](https://stephen-psaradellis.github.io/plumber-website-template/). The full 16-page Keystone is
   [$29 on Gumroad](https://localwebkit.gumroad.com/l/keystone).
 - [The data story](https://stephen-psaradellis.github.io/demos/small-business-email-forgery-2026.html) -
