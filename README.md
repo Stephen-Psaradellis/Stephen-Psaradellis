@@ -17,9 +17,9 @@ Most of what is here started from one scan of 43,000 small-business websites and
 - [Local Site Audit + Pitch](https://github.com/Stephen-Psaradellis/local-site-audit) - a browser extension
   for web designers: one click on a business's site gives a client report of real defects with evidence,
   plus a pitch email written from them. [Get it on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/hcdpnkilmailiiljmaeldcomceoibajh).
-- [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite) - a free one-page website template
+- [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template) - a free one-page website template
   for local service businesses (plumber, HVAC, dentist), accessible, dark mode, no build step.
-  [Preview](https://stephen-psaradellis.github.io/keystone-lite/). The full 16-page Keystone is
+  [Preview](https://stephen-psaradellis.github.io/plumber-website-template/). The full 16-page Keystone is
   [$29 on Gumroad](https://localwebkit.gumroad.com/l/keystone).
 - [The data story](https://stephen-psaradellis.github.io/demos/small-business-email-forgery-2026.html) -
   57.2% of small-business mail domains publish no DMARC record at all.
